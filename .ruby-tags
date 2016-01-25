@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+add_element_to_end_of_array	lib/array_crud.rb	/^def add_element_to_end_of_array(array, element)$/;"	f
+add_element_to_start_of_array	lib/array_crud.rb	/^def add_element_to_start_of_array(array, element)$/;"	f
+create_an_array	lib/array_crud.rb	/^def create_an_array$/;"	f
+create_an_empty_array	lib/array_crud.rb	/^def create_an_empty_array$/;"	f
+remove_element_from_end_of_array	lib/array_crud.rb	/^def remove_element_from_end_of_array(array)$/;"	f
+remove_element_from_start_of_array	lib/array_crud.rb	/^def remove_element_from_start_of_array(array)$/;"	f
+retreive_element_from_index	lib/array_crud.rb	/^def retreive_element_from_index(array, index_number)$/;"	f
+retreive_first_element_from_array	lib/array_crud.rb	/^def retreive_first_element_from_array(array)$/;"	f
+retreive_last_element_from_array	lib/array_crud.rb	/^def retreive_last_element_from_array(array)$/;"	f
