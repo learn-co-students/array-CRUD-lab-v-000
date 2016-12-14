@@ -1,5 +1,5 @@
 # Array Lab: Create, Retrieve, Update, Delete
-
+nothing
 ## Overview
 
 In this lab, you will create arrays, add data to arrays, remove data from arrays and retrieve data from arrays.
