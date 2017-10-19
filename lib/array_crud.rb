@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array = ["blip", "blop", "bloop", "bleep"]
+  # array = ["blip", "blop", "bloop", "bleep"] # too much code here. either set array var. and remove array from arg, or leave it and take out this set local var.
   array << element
 end
 
