@@ -32,4 +32,6 @@ end
 
 def retrieve_last_element_from_array(array)
   array.last
+    # OR
+  # array[-1]
 end
