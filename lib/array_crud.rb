@@ -7,12 +7,14 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array,element)
-  # element = "arrays!"
-  array.push("arrays!")
+  element = "arrays!"
+  # array.push("arrays!") we can use this too
+  array.push(element)
 end
 
 def add_element_to_start_of_array(array, element)
-  array.unshift("wow")
+  # array.unshift("arrays!") can also use this
+  array.unshift(element)
 end
 
 def remove_element_from_end_of_array(array)
